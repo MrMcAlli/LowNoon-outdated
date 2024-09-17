@@ -1,0 +1,1 @@
+A learning project I worked on for about 3 months to help understand polymorphism. Also used project this as an opportunity to cement my basic working knowledge of state machines, as I thought that would be something I used frequently in the future.
